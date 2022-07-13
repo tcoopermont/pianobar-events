@@ -1,3 +1,5 @@
+#todo: test ability to pass environment variable RECORD FOLDER
+
 new_proc=-11
 last_file=unknown_file
 last_title=unknown_title
