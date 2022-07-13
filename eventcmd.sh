@@ -1,4 +1,5 @@
-#todo: test ability to pass environment variable RECORD FOLDER
+#todo: test ability to pass environment variable RECORD FOLDER - should be able to just use basename on 
+# full path retrieved from proc environment
 
 new_proc=-11
 last_file=unknown_file
