@@ -1,5 +1,6 @@
 #todo: test ability to pass environment variable RECORD FOLDER - should be able to just use dirname on 
 # full path retrieved from proc environment
+# do a check for bad proccess id or bad filename
 
 
 rec_pid=`cat "${XDG_HOME_CONFIG:-${HOME}/.config}/pianobar/record_pid"`
